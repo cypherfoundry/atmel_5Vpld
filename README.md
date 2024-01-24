@@ -1690,3 +1690,10 @@ This repository is merely a bunch of tips, tricks, helper scripts and documentat
 * Yosys
 * hoglet67 for putting together <a href="https://github.com/hoglet67/atf15xx_yosys">atf15xx_yosys</a>, which shows a workflow using yosys and provides a techmap.
 * Countless other tips, tools, contributions and from all over the web and plenty of trial-and-error working around the quirks of WinCUPL and the fitters themselves.
+
+# OTHERS
+* https://snowgoons.ro/posts/2020-11-25-atf15xx-vhdl-development-for-cheap/
+* https://www.hackup.net/2020/01/erasing-and-programming-the-atf1504-cpld/
+* http://www.s100computers.com/Software%20Folder/CPLDs/Intro%20To%20CPLDs.htm
+* https://whitequark.github.io/prjbureau/options/buffer.html
+* https://openocd.org/
