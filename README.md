@@ -1697,3 +1697,4 @@ This repository is merely a bunch of tips, tricks, helper scripts and documentat
 * http://www.s100computers.com/Software%20Folder/CPLDs/Intro%20To%20CPLDs.htm
 * https://whitequark.github.io/prjbureau/options/buffer.html
 * https://openocd.org/
+* https://mike42.me/blog/2021-10-programming-plds-with-open-source-software
