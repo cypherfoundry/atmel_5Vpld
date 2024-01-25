@@ -1698,3 +1698,4 @@ This repository is merely a bunch of tips, tricks, helper scripts and documentat
 * https://whitequark.github.io/prjbureau/options/buffer.html
 * https://openocd.org/
 * https://mike42.me/blog/2021-10-programming-plds-with-open-source-software
+* https://hackaday.com/2021/04/15/programming-pals-in-2021/
